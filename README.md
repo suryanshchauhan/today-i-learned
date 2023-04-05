@@ -17,4 +17,5 @@ Check out the deployed app: https://todayilearned-fs.netlify.app
 JavaScript, ReactJS, ViteJS, TailwindCSS, Supabase, Netlify
 
 ## Screenshots
-https://user-images.githubusercontent.com/66567078/230133625-974dabf1-6d6b-4e60-aac7-3327fc8c5752.png
+![image](https://user-images.githubusercontent.com/66567078/230133814-ff62d743-4c5e-4239-b2a3-e4ca7083fc1c.png)
+
