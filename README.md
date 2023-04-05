@@ -1,7 +1,7 @@
 # Today I Learned
 
 A full-stack web application to add facts or something new you have learned. 
-
+<br>
 Check out the deployed app: https://todayilearned-fs.netlify.app
 
 ## Features
