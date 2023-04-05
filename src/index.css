@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Coiny&family=Sono:wght@400;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    font-family: 'Sono', sans-serif;
+    background-color: #292524;
+    color: #fafaf9;
+  }
+}
