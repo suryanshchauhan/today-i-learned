@@ -2,7 +2,7 @@
 
 Trending Facts At Your Fingertips
 
-Check here at 
+Check out the deployed app: https://todayilearned-fs.netlify.app
 
 ## Features
 
