@@ -1,12 +1,12 @@
 # Today I Learned
 
-Trending Facts At Your Fingertips
+A full-stack web application to add facts or something new you have learned. 
 
 Check out the deployed app: https://todayilearned-fs.netlify.app
 
 ## Features
 
-- Load the fact list from the Supabase
+- Load the fact list from Supabase database
 - Filter fact list using categories
 - Update fact list with Interesting, Mindblowing, Disputed vote buttons
 - Share a new fact
